@@ -328,7 +328,7 @@
 	cold_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
 	min_cold_protection_temperature = SPACE_SUIT_MIN_TEMP_PROTECT
 
-/obj/item/clothing/suit/armored
+/obj/item/clothing/suit/armor
 	name = "armor template"
 	lefthand_file = 'icons/mob/inhands/clothing_lefthand.dmi'
 	righthand_file = 'icons/mob/inhands/clothing_righthand.dmi'
@@ -374,24 +374,24 @@ Suits. 0-10 in its primary value, slowdown 0, various utility
 */
 
 //Light armor. 15-30 in its primary value, slowdown 0.05
-/obj/item/clothing/suit/armored/light
+/obj/item/clothing/suit/armor/light
 	name = "light armor template"
 	icon = 'icons/fallout/clothing/armored_light.dmi'
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/armor_light.dmi'
 	slowdown = 0.05
 	allowed = list(/obj/item/gun, /obj/item/melee/onehanded, /obj/item/melee/smith,)
 
-/obj/item/clothing/suit/armored/light/legion
+/obj/item/clothing/suit/armor/light/legion
 	slowdown = 0
 	allowed = list(/obj/item/gun, /obj/item/melee/onehanded, /obj/item/twohanded, /obj/item/melee/smith, /obj/item/melee/smith/twohand)
 
-/obj/item/clothing/suit/armored/light/tribal
+/obj/item/clothing/suit/armor/light/tribal
 	slowdown = 0
 	allowed = list(/obj/item/melee/onehanded, /obj/item/twohanded, /obj/item/melee/smith, /obj/item/melee/smith/twohand)
 
 
 // Medium armor. 35-45 in its primary value, slowdown 0.1
-/obj/item/clothing/suit/armored/medium
+/obj/item/clothing/suit/armor/medium
 	name = "medium armor template"
 	icon = 'icons/fallout/clothing/armored_medium.dmi'
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/armor_medium.dmi'
@@ -399,17 +399,17 @@ Suits. 0-10 in its primary value, slowdown 0, various utility
 	allowed = list(/obj/item/gun, /obj/item/melee/onehanded, /obj/item/melee/smith,)
 	strip_delay = 40
 
-/obj/item/clothing/suit/armored/medium/legion
+/obj/item/clothing/suit/armor/medium/legion
 	slowdown = 0.05
 	allowed = list(/obj/item/gun, /obj/item/melee/onehanded, /obj/item/twohanded, /obj/item/melee/smith, /obj/item/melee/smith/twohand)
 
-/obj/item/clothing/suit/armored/medium/tribal
+/obj/item/clothing/suit/armor/medium/tribal
 	slowdown = 0.05
 	allowed = list(/obj/item/melee/onehanded, /obj/item/twohanded, /obj/item/melee/smith, /obj/item/melee/smith/twohand)
 
 
 // Heavy armor. 50-65 in its primary value, slowdown 0.15
-/obj/item/clothing/suit/armored/heavy
+/obj/item/clothing/suit/armor/heavy
 	name = "heavy armor template"
 	icon = 'icons/fallout/clothing/armored_heavy.dmi'
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/armor_heavy.dmi'
@@ -417,7 +417,7 @@ Suits. 0-10 in its primary value, slowdown 0, various utility
 	allowed = list(/obj/item/gun, /obj/item/melee/onehanded, /obj/item/twohanded, /obj/item/melee/smith, /obj/item/melee/smith/twohand)
 	strip_delay = 50
 
-/obj/item/clothing/suit/armored/heavy/legion
+/obj/item/clothing/suit/armor/heavy/legion
 	slowdown = 0.1
 
 

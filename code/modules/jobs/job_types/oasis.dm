@@ -91,7 +91,7 @@ Mayor
 /datum/outfit/loadout/mayoral
 	name = "Frontier Leader"
 	backpack_contents = list(
-		/obj/item/clothing/suit/armor/f13/town/mayor = 1,
+		/obj/item/clothing/suit/armor/town/mayor = 1,
 		/obj/item/clothing/head/f13/town/mayor = 1,
 		/obj/item/gun/ballistic/revolver/m29/snub = 1,
 		/obj/item/ammo_box/m44 = 2,
@@ -104,7 +104,7 @@ Mayor
 	backpack_contents = list(
 		/obj/item/clothing/under/f13/vault = 1,
 		/obj/item/clothing/shoes/jackboots = 1,
-		/obj/item/clothing/suit/armor/f13/battlecoat/vault/overseer = 1,
+		/obj/item/clothing/suit/armor/battlecoat/vault/overseer = 1,
 		/obj/item/reagent_containers/food/drinks/flask/vault113,
 		/obj/item/gun/energy/laser/pistol= 1,
 		/obj/item/stock_parts/cell/ammo/ec = 1,
@@ -270,7 +270,7 @@ Mayor
 
 /datum/outfit/loadout/thelaw
 	name = "The Law Man"
-	suit = /obj/item/clothing/suit/armor/f13/town/sheriff
+	suit = /obj/item/clothing/suit/armor/town/sheriff
 	head = /obj/item/clothing/head/f13/town/sheriff
 	neck = /obj/item/storage/belt/holster
 	r_hand = /obj/item/gun/ballistic/rifle/repeater/brush
@@ -283,7 +283,7 @@ Mayor
 /datum/outfit/loadout/thechief
 	name = "The Chief"
 	uniform = /obj/item/clothing/under/f13/police/formal
-	suit = /obj/item/clothing/suit/armor/f13/town/chief
+	suit = /obj/item/clothing/suit/armor/town/chief
 	head = /obj/item/clothing/head/f13/town/chief
 	neck = /obj/item/storage/belt/holster/legholster
 	shoes = /obj/item/clothing/shoes/jackboots
@@ -367,7 +367,7 @@ Mayor
 
 /datum/outfit/loadout/frontierjustice
 	name = "Frontier Justice"
-	suit = /obj/item/clothing/suit/armor/f13/town/deputy
+	suit = /obj/item/clothing/suit/armor/town/deputy
 	head = /obj/item/clothing/head/f13/town/deputy
 	neck =	/obj/item/storage/belt/holster
 	r_hand = /obj/item/gun/ballistic/rifle/repeater/trail
@@ -500,7 +500,7 @@ Mayor
 
 	id = /obj/item/card/id/dogtag/town
 	ears = /obj/item/radio/headset/headset_town
-	suit = /obj/item/clothing/suit/armor/f13/raider/iconoclast/
+	suit = /obj/item/clothing/suit/armor/raider/iconoclast/
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/settler
@@ -771,7 +771,7 @@ Mayor
 /datum/outfit/loadout/militia
 	name = "Militia"
 	head = /obj/item/clothing/head/helmet/armyhelmet
-	suit = /obj/item/clothing/suit/armor/f13/metalarmor/steelbib
+	suit = /obj/item/clothing/suit/armor/metalarmor/steelbib
 	uniform = /obj/item/clothing/under/f13/mercc
 	r_hand = /obj/item/gun/ballistic/rifle/hunting
 	gloves = /obj/item/clothing/gloves/f13/leather

@@ -744,7 +744,7 @@
 	flavour_text = "Rangers lead the way!"
 	assignedrole = "NCR Ranger"
 	outfit = /datum/outfit/job/ncr/f13ranger
-	suit = /obj/item/clothing/suit/armor/f13/combat/ncr_patrol
+	suit = /obj/item/clothing/suit/armor/combat/ncr_patrol
 	belt = /obj/item/storage/belt/military/assault/ncr
 	suit_store = /obj/item/gun/ballistic/automatic/service/carbine
 	head = /obj/item/clothing/head/f13/ranger
@@ -837,7 +837,7 @@
 	assignedrole = "Raider"
 	suit_store = /obj/item/gun/ballistic/automatic/smg/greasegun
 	uniform = /obj/item/clothing/under/f13/ravenharness
-	suit = /obj/item/clothing/suit/armor/f13/combat/mk2/raider
+	suit = /obj/item/clothing/suit/armor/combat/mk2/raider
 	head = /obj/item/clothing/head/helmet/f13/combat/mk2/raider
 	ears = /obj/item/radio/headset
 	belt = /obj/item/storage/belt/military/assault

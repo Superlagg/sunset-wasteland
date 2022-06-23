@@ -234,7 +234,7 @@
 					/obj/item/clothing/under/f13/raiderharness = 3,
 					/obj/item/clothing/under/f13/ravenharness = 3,
 					/obj/item/clothing/suit/f13/sexymaid = 5,
-					/obj/item/clothing/suit/armor/f13/brahmin_leather_duster = 3,
+					/obj/item/clothing/suit/armor/brahmin_leather_duster = 3,
 					/obj/item/clothing/head/helmet/f13/brahmincowboyhat = 3,
 					/obj/item/restraints/handcuffs/fake/kinky = 5,
 					/obj/item/clothing/mask/muzzle = 5,

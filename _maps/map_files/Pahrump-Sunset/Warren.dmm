@@ -4520,7 +4520,7 @@
 /obj/item/clothing/under/f13/ncrcf{
 	name = "NCR Correctional Facility Uniform"
 	},
-/obj/item/clothing/suit/armor/f13/ncrcfjacket,
+/obj/item/clothing/suit/armor/ncrcfjacket,
 /obj/item/clothing/shoes/sneakers/black,
 /obj/item/clothing/shoes/sneakers/black,
 /obj/item/clothing/shoes/sneakers/black,
@@ -6128,7 +6128,7 @@
 /obj/item/gun/ballistic/revolver/colt357,
 /obj/item/clothing/head/helmet/f13/brahmincowboyhat,
 /obj/item/stack/medical/bruise_pack,
-/obj/item/clothing/suit/armor/f13/brahmin_leather_duster,
+/obj/item/clothing/suit/armor/brahmin_leather_duster,
 /turf/open/floor/wood_common,
 /area/f13/wasteland)
 "gat" = (
@@ -6497,8 +6497,8 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/clothing/under/f13/legslavef,
 /obj/item/clothing/under/f13/legslavef,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /obj/item/clothing/under/f13/legslave,
 /obj/item/clothing/under/f13/legslave,
 /obj/item/melee/onehanded/slavewhip,
@@ -15621,7 +15621,7 @@
 "pTX" = (
 /obj/structure/closet/cabinet,
 /obj/item/clothing/head/beret/ncr_codresscap,
-/obj/item/clothing/suit/armor/f13/ncrarmor/ncr_codressjack,
+/obj/item/clothing/suit/armor/ncrarmor/ncr_codressjack,
 /obj/item/clothing/under/f13/ncr/ncr_officer,
 /obj/item/clothing/under/rank/medical/doctor/blue,
 /obj/item/clothing/under/rank/medical/doctor/green,
@@ -21362,7 +21362,7 @@
 /obj/item/clothing/under/f13/ncrcf{
 	name = "NCR Correctional Facility Uniform"
 	},
-/obj/item/clothing/suit/armor/f13/ncrcfjacket,
+/obj/item/clothing/suit/armor/ncrcfjacket,
 /obj/item/clothing/shoes/sneakers/black,
 /obj/item/clothing/shoes/sneakers/black,
 /turf/open/floor/f13{
@@ -22480,7 +22480,7 @@
 /obj/item/clothing/shoes/laceup,
 /obj/item/clothing/under/f13/ncr_formal_uniform,
 /obj/item/clothing/under/f13/ncr/ncr_officer,
-/obj/item/clothing/suit/armor/f13/ncrarmor/ncr_codressjack,
+/obj/item/clothing/suit/armor/ncrarmor/ncr_codressjack,
 /obj/item/clothing/head/beret/ncr_codresscap,
 /turf/open/floor/plasteel/vault,
 /area/f13/ncr)
@@ -23032,7 +23032,7 @@
 /obj/item/clothing/shoes/laceup,
 /obj/item/clothing/under/f13/ncr_formal_uniform,
 /obj/item/clothing/under/f13/ncr/ncr_officer,
-/obj/item/clothing/suit/armor/f13/ncrarmor/ncr_codressjack,
+/obj/item/clothing/suit/armor/ncrarmor/ncr_codressjack,
 /obj/item/clothing/head/beret/ncr_codresscap,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/vault,
@@ -23285,7 +23285,7 @@
 /obj/item/clothing/shoes/laceup,
 /obj/item/clothing/under/f13/ncr_formal_uniform,
 /obj/item/clothing/under/f13/ncr/ncr_officer,
-/obj/item/clothing/suit/armor/f13/ncrarmor/ncr_codressjack,
+/obj/item/clothing/suit/armor/ncrarmor/ncr_codressjack,
 /obj/item/clothing/head/beret/ncr_codresscap,
 /obj/item/storage/lockbox/medal,
 /obj/item/storage/lockbox,

@@ -308,7 +308,7 @@
 /area/f13/wasteland/quarry)
 "abh" = (
 /obj/effect/decal/remains/human,
-/obj/item/clothing/suit/armor/f13/leatherarmor,
+/obj/item/clothing/suit/armor/leatherarmor,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "abi" = (
@@ -320,7 +320,7 @@
 /area/f13/caves)
 "abj" = (
 /obj/effect/decal/remains/human,
-/obj/item/clothing/suit/armor/f13/raider/yankee,
+/obj/item/clothing/suit/armor/raider/yankee,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "abk" = (
@@ -501,7 +501,7 @@
 "abU" = (
 /obj/item/reagent_containers/hypospray/medipen/stimpak,
 /obj/effect/decal/remains/human,
-/obj/item/clothing/suit/armor/f13/tribal,
+/obj/item/clothing/suit/armor/tribal,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "abV" = (
@@ -1223,7 +1223,7 @@
 /obj/effect/spawner/lootdrop/f13/weapon/melee/random,
 /obj/item/clothing/suit/f13/sexymaid,
 /obj/item/clothing/head/helmet/f13/brahmincowboyhat,
-/obj/item/clothing/suit/armor/f13/brahmin_leather_duster,
+/obj/item/clothing/suit/armor/brahmin_leather_duster,
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
 	},
@@ -3488,7 +3488,7 @@
 /area/f13/wasteland/quarry)
 "all" = (
 /obj/item/clothing/head/helmet/f13/brahmincowboyhat,
-/obj/item/clothing/suit/armor/f13/brahmin_leather_duster,
+/obj/item/clothing/suit/armor/brahmin_leather_duster,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "alm" = (
@@ -3804,7 +3804,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "amq" = (
-/obj/item/clothing/suit/armor/f13/kit,
+/obj/item/clothing/suit/armor/kit,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "amr" = (
@@ -4193,7 +4193,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "anG" = (
-/obj/item/clothing/suit/armor/f13/leatherarmor,
+/obj/item/clothing/suit/armor/leatherarmor,
 /obj/effect/decal/remains/human,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
@@ -9862,7 +9862,7 @@
 /area/f13/village)
 "aEB" = (
 /obj/structure/table/wood,
-/obj/item/clothing/suit/armor/f13/kit,
+/obj/item/clothing/suit/armor/kit,
 /obj/structure/table/wood,
 /turf/open/floor/f13/wood,
 /area/f13/village)
@@ -15336,7 +15336,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/village)
 "aUN" = (
-/obj/item/clothing/suit/armor/f13/combatrusted,
+/obj/item/clothing/suit/armor/combatrusted,
 /obj/item/clothing/head/helmet/f13/hoodedmask,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland/quarry)
@@ -15930,7 +15930,7 @@
 /turf/open/floor/wood_wide,
 /area/f13/building/khanfort)
 "aWD" = (
-/obj/item/clothing/suit/armor/f13/brahmin_leather_duster,
+/obj/item/clothing/suit/armor/brahmin_leather_duster,
 /obj/item/clothing/head/helmet/f13/brahmincowboyhat,
 /obj/structure/reagent_dispensers/barrel/explosive,
 /turf/open/indestructible/ground/outside/dirt,
@@ -22637,7 +22637,7 @@
 /obj/item/clothing/under/f13/ncrcf{
 	name = "NCR Correctional Facility Uniform"
 	},
-/obj/item/clothing/suit/armor/f13/ncrcfjacket,
+/obj/item/clothing/suit/armor/ncrcfjacket,
 /obj/item/clothing/shoes/sneakers/black,
 /obj/item/clothing/shoes/sneakers/black,
 /turf/open/floor/f13{
@@ -26035,7 +26035,7 @@
 /area/f13/village)
 "cjY" = (
 /obj/effect/decal/remains/human,
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /obj/item/clothing/shoes/f13/rag,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/building)
@@ -27592,7 +27592,7 @@
 /area/f13/wasteland/legion)
 "cwd" = (
 /obj/item/clothing/head/helmet/f13/raidermetal,
-/obj/item/clothing/suit/armor/f13/raider/raidermetal,
+/obj/item/clothing/suit/armor/raider/raidermetal,
 /obj/effect/spawner/lootdrop/f13/weapon/gun/ballistic/superlow,
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland/east)
@@ -30083,7 +30083,7 @@
 /obj/item/clothing/under/f13/ncrcf{
 	name = "NCR Correctional Facility Uniform"
 	},
-/obj/item/clothing/suit/armor/f13/ncrcfjacket,
+/obj/item/clothing/suit/armor/ncrcfjacket,
 /obj/item/clothing/shoes/sneakers/black,
 /obj/item/clothing/shoes/sneakers/black,
 /obj/item/clothing/shoes/sneakers/black,
@@ -39398,7 +39398,7 @@
 	},
 /area/f13/radiation)
 "kdw" = (
-/obj/item/clothing/suit/armor/f13/rustedcowboy,
+/obj/item/clothing/suit/armor/rustedcowboy,
 /obj/item/clothing/head/helmet/f13/rustedcowboyhat,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/building)
@@ -43642,7 +43642,7 @@
 	},
 /area/f13/building/museum)
 "mGQ" = (
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/building)
 "mGS" = (
@@ -44506,11 +44506,11 @@
 /obj/item/clothing/mask/bandana/legion/legrecruit,
 /obj/item/clothing/mask/bandana/legion/legrecruit,
 /obj/item/clothing/mask/bandana/legion/legrecruit,
-/obj/item/clothing/suit/armor/f13/legion/recruit,
-/obj/item/clothing/suit/armor/f13/legion/recruit,
-/obj/item/clothing/suit/armor/f13/legion/recruit,
-/obj/item/clothing/suit/armor/f13/legion/recruit,
-/obj/item/clothing/suit/armor/f13/legion/recruit,
+/obj/item/clothing/suit/armor/legion/recruit,
+/obj/item/clothing/suit/armor/legion/recruit,
+/obj/item/clothing/suit/armor/legion/recruit,
+/obj/item/clothing/suit/armor/legion/recruit,
+/obj/item/clothing/suit/armor/legion/recruit,
 /turf/open/floor/plasteel/f13/stone/rugged,
 /area/f13/legion)
 "nna" = (
@@ -44742,15 +44742,15 @@
 /obj/item/clothing/under/f13/legslavef,
 /obj/item/clothing/under/f13/legslavef,
 /obj/item/clothing/under/f13/legslavef,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /obj/item/clothing/under/f13/legslavef,
 /obj/item/clothing/under/f13/legslavef,
 /obj/item/clothing/under/f13/legslavef,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/legion)
 "nuM" = (
@@ -48731,7 +48731,7 @@
 /area/f13/wasteland/bighorn)
 "pTo" = (
 /obj/item/clothing/head/helmet/f13/rustedcowboyhat,
-/obj/item/clothing/suit/armor/f13/rustedcowboy,
+/obj/item/clothing/suit/armor/rustedcowboy,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/building)
 "pTt" = (
@@ -50741,7 +50741,7 @@
 	icon_state = "mattress2";
 	pixel_y = 7
 	},
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /obj/item/clothing/under/f13/legslavef,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/building)
@@ -51576,7 +51576,7 @@
 "rKZ" = (
 /obj/structure/displaycase,
 /obj/item/clothing/head/helmet/knight/f13/metal,
-/obj/item/clothing/suit/armor/f13/raider/raidermetal,
+/obj/item/clothing/suit/armor/raider/raidermetal,
 /obj/item/twohanded/fireaxe/boneaxe,
 /turf/open/floor/carpet,
 /area/f13/building/mall)
@@ -52928,15 +52928,15 @@
 /obj/item/clothing/under/f13/legslave,
 /obj/item/clothing/under/f13/legslave,
 /obj/item/clothing/under/f13/legslave,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /obj/item/clothing/under/f13/legslave,
 /obj/item/clothing/under/f13/legslave,
 /obj/item/clothing/under/f13/legslave,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/legion)
 "sDH" = (
@@ -56208,7 +56208,7 @@
 	},
 /area/f13/building/massfusion)
 "uAJ" = (
-/obj/item/clothing/suit/armor/f13/slavelabor,
+/obj/item/clothing/suit/armor/slavelabor,
 /turf/open/indestructible/ground/outside/dirt{
 	dir = 8;
 	icon_state = "dirt"

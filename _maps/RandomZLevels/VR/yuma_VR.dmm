@@ -238,10 +238,10 @@
 /obj/item/clothing/head/helmet/f13/power_armor/t45d,
 /obj/item/clothing/head/helmet/f13/power_armor/t51b,
 /obj/item/clothing/head/helmet/f13/power_armor/t60,
-/obj/item/clothing/suit/armor/f13/power_armor/t45b,
-/obj/item/clothing/suit/armor/f13/power_armor/t45d,
-/obj/item/clothing/suit/armor/f13/power_armor/t51b,
-/obj/item/clothing/suit/armor/f13/power_armor/t60,
+/obj/item/clothing/suit/armor/power_armor/t45b,
+/obj/item/clothing/suit/armor/power_armor/t45d,
+/obj/item/clothing/suit/armor/power_armor/t51b,
+/obj/item/clothing/suit/armor/power_armor/t60,
 /turf/open/floor/holofloor/plating,
 /area/holodeck/bos/programs/armory)
 "ch" = (
@@ -417,7 +417,7 @@
 /area/awaymission/vr/bos/casino)
 "do" = (
 /obj/structure/table/reinforced,
-/obj/item/clothing/suit/armor/f13/rangercombat/eliteriot{
+/obj/item/clothing/suit/armor/rangercombat/eliteriot{
 	desc = "A heavily reinforced set of military grade armor, commonly seen in the Divide, now repurposed."
 	},
 /obj/item/clothing/head/helmet/f13/ncr/rangercombat/eliteriot{
@@ -437,9 +437,9 @@
 	},
 /obj/item/clothing/head/helmet/f13/power_armor/t45b,
 /obj/item/clothing/head/helmet/f13/power_armor/t45d,
-/obj/item/clothing/suit/armor/f13/power_armor/t45b,
-/obj/item/clothing/suit/armor/f13/power_armor/t45d,
-/obj/item/clothing/suit/armor/f13/power_armor/hotrod,
+/obj/item/clothing/suit/armor/power_armor/t45b,
+/obj/item/clothing/suit/armor/power_armor/t45d,
+/obj/item/clothing/suit/armor/power_armor/hotrod,
 /obj/item/clothing/head/helmet/f13/power_armor/hotrod,
 /turf/open/floor/holofloor/plating,
 /area/holodeck/den/programs/armory)
@@ -463,25 +463,25 @@
 	dir = 1
 	},
 /obj/item/clothing/head/helmet/f13/combat/enclave,
-/obj/item/clothing/suit/armor/f13/combat/enclave,
-/obj/item/clothing/suit/armor/f13/combat/swat,
-/obj/item/clothing/suit/armor/f13/enclave/armorvest,
-/obj/item/clothing/suit/armor/f13/enclave/officercoat,
-/obj/item/clothing/suit/armor/f13/kit,
-/obj/item/clothing/suit/armor/f13/leatherarmor,
-/obj/item/clothing/suit/armor/f13/leatherarmor/reinforced,
-/obj/item/clothing/suit/armor/f13/raider/badlands,
-/obj/item/clothing/suit/armor/f13/raider/blastmaster,
-/obj/item/clothing/suit/armor/f13/raider/iconoclast,
-/obj/item/clothing/suit/armor/f13/raider/painspike,
-/obj/item/clothing/suit/armor/f13/raider/raidercombat,
-/obj/item/clothing/suit/armor/f13/raider/raidermetal,
-/obj/item/clothing/suit/armor/f13/raider/rebel,
-/obj/item/clothing/suit/armor/f13/raider/sadist,
-/obj/item/clothing/suit/armor/f13/raider/supafly,
-/obj/item/clothing/suit/armor/f13/raider/yankee,
-/obj/item/clothing/suit/armor/f13/slam,
-/obj/item/clothing/suit/armor/f13/sulphitearmor,
+/obj/item/clothing/suit/armor/combat/enclave,
+/obj/item/clothing/suit/armor/combat/swat,
+/obj/item/clothing/suit/armor/enclave/armorvest,
+/obj/item/clothing/suit/armor/enclave/officercoat,
+/obj/item/clothing/suit/armor/kit,
+/obj/item/clothing/suit/armor/leatherarmor,
+/obj/item/clothing/suit/armor/leatherarmor/reinforced,
+/obj/item/clothing/suit/armor/raider/badlands,
+/obj/item/clothing/suit/armor/raider/blastmaster,
+/obj/item/clothing/suit/armor/raider/iconoclast,
+/obj/item/clothing/suit/armor/raider/painspike,
+/obj/item/clothing/suit/armor/raider/raidercombat,
+/obj/item/clothing/suit/armor/raider/raidermetal,
+/obj/item/clothing/suit/armor/raider/rebel,
+/obj/item/clothing/suit/armor/raider/sadist,
+/obj/item/clothing/suit/armor/raider/supafly,
+/obj/item/clothing/suit/armor/raider/yankee,
+/obj/item/clothing/suit/armor/slam,
+/obj/item/clothing/suit/armor/sulphitearmor,
 /obj/item/clothing/head/helmet/f13/combat/mk2/raider,
 /obj/item/clothing/head/helmet/f13/combat,
 /obj/item/clothing/head/helmet/f13/combat/mk2,
@@ -1334,7 +1334,7 @@
 	pixel_x = -9;
 	pixel_y = 10
 	},
-/obj/item/clothing/suit/armor/f13/combat/brotherhood/initiate{
+/obj/item/clothing/suit/armor/combat/brotherhood/initiate{
 	pixel_x = -9;
 	pixel_y = 6
 	},
@@ -1345,7 +1345,7 @@
 	dir = 1
 	},
 /obj/item/clothing/head/helmet/f13/combat/brotherhood/initiate/mk2,
-/obj/item/clothing/suit/armor/f13/combat/brotherhood/initiate/mk2,
+/obj/item/clothing/suit/armor/combat/brotherhood/initiate/mk2,
 /turf/open/floor/holofloor/plating,
 /area/holodeck/bos/programs/armory)
 "iK" = (
@@ -3311,7 +3311,7 @@
 	pixel_x = -9;
 	pixel_y = 10
 	},
-/obj/item/clothing/suit/armor/f13/combat/brotherhood/initiate{
+/obj/item/clothing/suit/armor/combat/brotherhood/initiate{
 	pixel_x = -9;
 	pixel_y = 6
 	},
@@ -3322,7 +3322,7 @@
 	dir = 1
 	},
 /obj/item/clothing/head/helmet/f13/combat/brotherhood/initiate/mk2,
-/obj/item/clothing/suit/armor/f13/combat/brotherhood/initiate/mk2,
+/obj/item/clothing/suit/armor/combat/brotherhood/initiate/mk2,
 /turf/open/floor/holofloor/plating,
 /area/holodeck/deathmatch/rooms/armory)
 "vR" = (
@@ -3915,10 +3915,10 @@
 /obj/item/clothing/head/helmet/f13/power_armor/t45d,
 /obj/item/clothing/head/helmet/f13/power_armor/t51b,
 /obj/item/clothing/head/helmet/f13/power_armor/t60,
-/obj/item/clothing/suit/armor/f13/power_armor/t45b,
-/obj/item/clothing/suit/armor/f13/power_armor/t45d,
-/obj/item/clothing/suit/armor/f13/power_armor/t51b,
-/obj/item/clothing/suit/armor/f13/power_armor/t60,
+/obj/item/clothing/suit/armor/power_armor/t45b,
+/obj/item/clothing/suit/armor/power_armor/t45d,
+/obj/item/clothing/suit/armor/power_armor/t51b,
+/obj/item/clothing/suit/armor/power_armor/t60,
 /turf/open/floor/holofloor/plating,
 /area/holodeck/deathmatch/rooms/armory)
 "An" = (
@@ -6000,7 +6000,7 @@
 /area/awaymission/vr/bos/deathmatch)
 "RN" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/item/clothing/suit/armor/f13/power_armor/x02,
+/obj/item/clothing/suit/armor/power_armor/x02,
 /turf/open/floor/f13{
 	dir = 8;
 	icon_state = "bluemark"
