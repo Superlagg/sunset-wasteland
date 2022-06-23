@@ -1,4 +1,4 @@
-// In this document: Heavy armor (not powerarmor)
+/* // In this document: Heavy armor (not powerarmor)
 
 
 ///////////////
@@ -259,3 +259,4 @@
 	. = ..()
 	AddComponent(/datum/component/rad_insulation, RAD_NO_INSULATION, TRUE, FALSE)
 */
+ */

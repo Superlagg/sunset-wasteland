@@ -1,4 +1,4 @@
-/obj/item/clothing/suit/armor
+/* /obj/item/clothing/suit/armor
 	allowed = null
 	cold_protection = CHEST|GROIN
 	min_cold_protection_temperature = ARMOR_MIN_TEMP_PROTECT
@@ -433,3 +433,4 @@ Suits. 0-10 in its primary value, slowdown 0, various utility
 	max_integrity = 250
 	resistance_flags = NONE
 	togglename = "collar"
+ */

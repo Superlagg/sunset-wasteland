@@ -1,4 +1,4 @@
-// In this document: Light armor
+/* // In this document: Light armor
 
 
 /////////////////////
@@ -488,3 +488,4 @@
 	item_state = "atomwitch"
 	armor = list("melee" = 5, "bullet" = 10, "laser" = 30, "energy" = 45, "bomb" = 55, "bio" = 65, "rad" = 100, "fire" = 60, "acid" = 20)
 */
+ */

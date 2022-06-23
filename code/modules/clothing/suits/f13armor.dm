@@ -1,4 +1,4 @@
-/*FOR REFERENCE
+/* /*FOR REFERENCE
 /obj/item/clothing/suit/armor
 	allowed = null
 	cold_protection = CHEST|GROIN
@@ -1293,3 +1293,4 @@ obj/item/clothing/suit/armor/f13/exile/cust0m
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/small
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS|HANDS
 	slowdown = 0.05
+ */
